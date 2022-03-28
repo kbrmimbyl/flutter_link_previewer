@@ -7,7 +7,7 @@ homepage: https://flyer.chat
 repository: https://github.com/flyerhq/flutter_link_previewer
 
 environment:
-  sdk: ">=2.16.0 <3.0.0"
+  sdk: ">=2.0.0 <3.0.0"
   flutter: ">=2.0.0"
 
 dependencies:
